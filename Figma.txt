@@ -1,6 +1,6 @@
 TITLE:
       INTERIOR DESIGN 
 ABOUT:
-      In figma i am used the interior design home page.
+      Interior design involves the thoughtful arrangement and decoration of indoor spaces to enhance functionality, aesthetics, and overall quality of life. It integrates elements like color, lighting, furniture, and spatial layout to create environments that reflect the occupants' needs and preferences while also addressing practical considerations. By blending creativity with technical expertise, interior design transforms spaces into harmonious, welcoming, and personalized areas that cater to both form and function.
 LINK:
       https://www.figma.com/design/pu6ObQxnQVfDt7BWSKJcr3/Untitled?node-id=0-1&t=otmN9WYiV2altmuc-1
